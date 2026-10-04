@@ -5,6 +5,7 @@ The aim was to build and compare diffrent classification models and evaluate how
 Because fraudulent transactions are much rarer than normal transactions, I focused on metrics such as precision, recall and F1-score rather than accuracy alone.
 
 ## Dataset
+Source: Kaggle Credit Card Fraud Detection dataset.
 The dataset contains 284, 807 credit card transactions.
 Each transaction contains:
 - 'Time'
